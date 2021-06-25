@@ -1,0 +1,9 @@
+.chooseImage{
+    margin-left: 15px;
+}
+
+@media only screen and (max-width: 990px) {
+    .smResponsive {
+      margin-bottom: 35px;
+    }
+  }

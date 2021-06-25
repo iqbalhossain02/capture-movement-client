@@ -1,0 +1,25 @@
+.logIn-container{
+    width: 350px;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+    
+}
+.img-container{
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+.iconImg{
+    width: 40px !important;
+    
+}
+
+.singInMethod{
+    margin-top: 0px;
+    border: 2px solid #ccc;
+    border-radius: 3rem;
+    width: 100%;
+    cursor: pointer;
+}

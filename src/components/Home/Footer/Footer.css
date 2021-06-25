@@ -1,0 +1,17 @@
+.footerImg{
+    background-image: url(https://tipsmake.com/data/images/100-most-beautiful-background-picture-5-tJUioLLAz.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(248, 238, 238)
+}
+
+.icon{
+    font-size: 28px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+  .payCard{
+      display: block;
+      margin : 0 auto;
+  }

@@ -1,0 +1,16 @@
+.service-section :hover{
+        background-color:lightblue;
+        cursor: pointer;
+        -webkit-transition: background-color 2s ease-out;
+        -moz-transition: background-color 2s ease-out;
+        -o-transition: background-color 2s ease-out;
+        transition: background-color 2s ease-out;
+        transform: translateY(-10px);
+        transition: 1.5s;    
+      
+}
+
+.service-container{
+    height:15rem;
+    width:auto
+}

@@ -1,0 +1,13 @@
+.sidebar{
+    background-image: linear-gradient(40deg, #19d3ae,#0fcfec);
+    height: "100vh"
+}
+.sidebar li{
+    margin-top: 2em;
+    list-style: none;
+}
+.linkStyle{
+    text-decoration: none !important;
+    color: rgb(240, 232, 232);
+    font-weight: bold;
+}
